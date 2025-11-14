@@ -1,5 +1,3 @@
-# Data Analytics Grad Student + Academic Advisor | Building Tools that Bridge People & Data
-
 **Graduate Student in Data Analytics | Academic Advisor at Saint Louis University**  
 I combine my background in academic advising with a growing skill set in analytics, using Python, R, SQL, and Power BI to explore data, automate workflows, and build user-focused tools.
 
